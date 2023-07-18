@@ -1,0 +1,16 @@
+{
+  "post": [
+    {
+      "id": 1,
+      "title": "Welcome to new blog",
+      "body": "This is the body of the blog post",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 CSS tips daily",
+      "body": "This is the body of the blog post",
+      "tags": ["webdev", "coding", "news"]
+    }
+  ]
+}
